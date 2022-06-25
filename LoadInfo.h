@@ -1,5 +1,5 @@
 /**
- * Auther/Developed By Muhammad Almuhmmah
+ * Author/Developed By Muhammad Almuhmmah
  * Githup : https://github.com/Muhmmad-Almuhmmah
  * Telegram : https://t.me/XDevYE
  * Facebook : https://www.facebook.com/X.Dev.Ye
